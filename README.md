@@ -10,9 +10,8 @@
 * Consumer computer hardware 🖥️
 * Building PC systems and servers as a hobby 🔧
 
-## 💻 Tech Stack:
-
-C C++ CSS3 HTML5 Java JavaScript LaTeX Markdown Python TypeScript Angular Bootstrap Django DjangoREST Expo NPM React React Native React Router Redux Nginx MySQL Adobe Photoshop Docker Trello Postman
+## 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tin-nguyen-31k17&show_icons=true&theme=react)
 
 ## ⌛️ Additionally, I have experience in:
 
@@ -21,3 +20,5 @@ C C++ CSS3 HTML5 Java JavaScript LaTeX Markdown Python TypeScript Angular Bootst
 * Project management 📅
 
 ## I'm looking forward to contributing to awesome projects on GitHub and gain more experience.🚀
+
+[![](https://visitcount.itsvg.in/api?id=tin-nguyen-31k17&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
