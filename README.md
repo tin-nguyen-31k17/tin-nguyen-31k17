@@ -10,6 +10,10 @@
 * Consumer computer hardware 🖥️
 * Building PC systems and servers as a hobby 🔧
 
+## 💻 Tech Stack:
+
+C C++ CSS3 HTML5 Java JavaScript LaTeX Markdown Python TypeScript Angular Bootstrap Django DjangoREST Expo NPM React React Native React Router Redux Nginx MySQL Adobe Photoshop Docker Trello Postman
+
 ## ⌛️ Additionally, I have experience in:
 
 * Sales 💰
